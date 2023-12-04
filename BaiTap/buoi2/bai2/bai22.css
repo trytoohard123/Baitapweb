@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: #1d2a35;
+}
+header h1{
+    color: #dddddd;
+    font-size: 40px;
+    font-weight: lighter;
+}
+header{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+header .previous_next {
+
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 20px;
+}
+
+header .previous_next a {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #04AA6D;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+header .intro {
+    width: 80%;
+    border-bottom:solid ;
+    border-top:solid;
+    border-color: #38444d;
+    margin-top: 30px;
+    color: white;
+    padding: 20px;
+    font-size: larger;
+    
+}
+main .content{
+    margin-left:100px;
+}
+main h2{
+    color: #dddddd;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+
+main div div{
+    margin-top: 20px;
+    width: 80%;
+    background-color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+}
+main p{
+    margin-top: 20px;
+    color: white;
+    font-size: larger;
+}
+.example{
+    color: white;
+    margin-top: 20px;
+    margin-left:100px;
+    background-color: #38444d;
+    width: 70%;
+    padding:10px;
+    border-radius: 5px;
+}
+.example h3{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.example div {
+    background-color: #1d2a35;
+    padding-right: 15%;
+}
+.example div p{
+    color: lightcoral;
+    margin: 2px;
+}

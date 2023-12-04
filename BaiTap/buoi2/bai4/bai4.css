@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto Slab';
+}
+body div h3{
+    color: rgb(19,151,151);
+}
+body div p{
+    background-color: rgb(66,189,189);
+}
+body div ul :hover{
+    color:rgb(228,228,19)
+}
+body div{
+    margin-left: 20%;
+    margin-right:20%;
+}
+body div p{
+    color:white;
+}

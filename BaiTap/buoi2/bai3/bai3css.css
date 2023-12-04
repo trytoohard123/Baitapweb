@@ -1,0 +1,46 @@
+.text{
+    background-color: #d3d3d3;
+    border: 3px solid black;
+    max-width: 700px;
+}
+.box{
+    width: 80px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+ul{
+    list-style-type: square;
+}
+table{
+    border-collapse: collapse;
+    width: 700px;
+}
+table th, table td{
+    border: 1px solid #d3d3d3;
+    padding: 4px;
+}
+table th{
+    color:white;
+    background-color: green;
+    text-align: left;
+}
+
+table tr :hover{
+    background-color: #ddd;
+}
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1.0;
+}
